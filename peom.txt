@@ -8,4 +8,4 @@ Blue
 Indigo
 Violet
 
-This is the rainbow
+This is the rainbow!
