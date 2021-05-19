@@ -1,4 +1,4 @@
-The Rainbow 
+The Rainbow and the Unicorn
 
 Red
 Orange
@@ -7,5 +7,7 @@ Green
 Blue 
 Indigo
 Violet
+Unicorn
 
 This is the rainbow!
+And the Unicorn!
